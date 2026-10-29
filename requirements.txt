@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pandas
+pillow
+python-dotenv
+sqlalchemy
